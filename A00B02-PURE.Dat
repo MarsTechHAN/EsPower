@@ -1,0 +1,27 @@
+﻿Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RasberryPTCC.PrjPcb|ReportField=ProjectFullPath~G:\Users\MartinT3CH\Documents\AD Files\RasberryPTCC\RasberryPTCC.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [A00B02-PURE.PcbDoc]|ReportField=TotalQuantity~35|ReportField=ReportTime~21:56:03|ReportField=ReportDate~2015/12/27|ReportField=ReportDateTime~2015/12/27 21:56:03|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~A00B02-PURE.PcbDoc|ReportField=DataSourceFullPath~G:\Users\MartinT3CH\Documents\AD Files\RasberryPTCC\A00B02-PURE.PcbDoc
+U7||AO4806|SOP-8|AO4806|1
+22uF 0805|Surface mount capacitor 0805|C1, C3, C4|SMT_C_0805|SMT_C_0805|3
+0.1uF|Surface mount capacitor 0603|C2, C7|SMT_C_0603|SMT_C_0603|2
+100uF 6.3V|Capacitor, SM Tantalum; Body 3.2 x 1.6 mm (LxW typ)|C5|SMT_C_Tantalum_A|SMT_C_Tantalum_A|1
+22uF 6.3V|Surface mount capacitor 0805|C6, C8|SMT_C_0805|SMT_C_0805|2
+220uF 6.3V|Capacitor, SM Tantalum; Body 3.5 x 2.8 mm (LxW typ)|C9, C10|SMT_C_Tantalum_B|SMT_C_Tantalum_B|2
+100nF|Surface mount capacitor 0603|C11|SMT_C_0603|SMT_C_0603|1
+SS24|Surface mount schottky diode DO-214AC(SMA) Package|D1|SMT_DIODE_DO_214AC|SMT_DIODE_SCHOTTKY_DO_214AC|1
+AO3402-N-Ch-MOSFET|AO3402-N-Ch,4A,30V.RDS(ON) = 0.11Ω @ VGS = 2.5V|FET1|AO3402-N-Ch-MOSFET|AO3402-N-Ch-MOSFET|1
+AO3401-P-Ch-MOSFET|AO3401-P-Ch,-4.2A, -30V.RDS(ON) = 0.12Ω @ VGS = -2.5 V|FET2|AO3401-P-Ch-MOSFET|AO3401-P-Ch-MOSFET|1
+THT_Male_P_1x2|THT Male pin header strip 1x2|J1, J2, J3|THT_Male_P_1x2-2.54mm|THT_Male_P_1x2|3
+4.7uH|Vishay HLP4040 SMT Inductor,11.5x11.5x4mm|L1|SMT_L_11.5mm|SMT_L_11.5mm|1
+1uH|Vishay HLP4040 SMT Inductor,11.5x11.5x4mm|L2|SMT_L_11.5mm|SMT_L_11.5mm|1
+SMT_LED_0603|SMT LED|LED1, LED2|SMT_LED_0603|SMT_LED_0603|2
+100oHm|Surface mount resistor 0603|R1|SMT_R_0603|SMT_R_0603|1
+5.6K|Surface mount resistor 0603|R2|SMT_R_0603|SMT_R_0603|1
+1K|Surface mount resistor 0603|R3, R9|SMT_R_0603|SMT_R_0603|2
+0.05R|Surface mount resistor 0805|R4|1210|SMT_R_0805|1
+12K|Surface mount resistor 0603|R5|SMT_R_0603|SMT_R_0603|1
+1M|Surface mount resistor 0603|R6|SMT_R_0603|SMT_R_0603|1
+180K|Surface mount resistor 0603|R7|SMT_R_0603|SMT_R_0603|1
+100R|Surface mount resistor 0603|R8|SMT_R_0603|SMT_R_0603|1
+U5||TPS63020|VSON-14|TPS63020|1
+USB_Micro_5S_B|USB micro female SMT with 4 fixed foot|U1|USB_MICRO_5S_B|USB_Micro_5S_B|1
+TP5000||U4|QFN-16|TP5000|1
+DW01-PLUS|One Cell Lithium-ion/Polymer Battery Protection IC|U6|SOT23-6|DW01-PLUS|1
